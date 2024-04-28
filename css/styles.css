@@ -117,7 +117,7 @@ hr{
     display: block;
 }
 .email{
-    background-image: url("/images/mail.png");
+    background-image: url("mail.png");
     background-repeat: no-repeat;
     display: inline-block;
     width: 25px;
